@@ -4,7 +4,7 @@
    "Segundos": 10,
    "Numero2": 1,
    "Segundos2": 0,
-   "EQUIPO": "BORA - HANSGROHE",
+   "EQUIPO": "BORAHANSGROHE",
    "Etapa": 1
  },
  {
@@ -12,7 +12,7 @@
    "Segundos": 32,
    "Numero2": 1,
    "Segundos2": 0,
-   "EQUIPO": "LOTTO SOUDAL",
+   "EQUIPO": "LOTTOSOUDAL",
    "Etapa": 2
  },
  {
@@ -20,7 +20,7 @@
    "Segundos": 87,
    "Numero2": 1,
    "Segundos2": 0,
-   "EQUIPO": "QUICK-STEP FLOORS",
+   "EQUIPO": "QUICKSTEPFLOORS",
    "Etapa": 3
  },
  {
@@ -28,7 +28,7 @@
    "Segundos": 1495,
    "Numero2": 1,
    "Segundos2": 0,
-   "EQUIPO": "QUICK-STEP FLOORS",
+   "EQUIPO": "QUICKSTEPFLOORS",
    "Etapa": 4
  },
  {
@@ -36,7 +36,7 @@
    "Segundos": 1484,
    "Numero2": 1,
    "Segundos2": 0,
-   "EQUIPO": "QUICK-STEP FLOORS",
+   "EQUIPO": "QUICKSTEPFLOORS",
    "Etapa": 5
  },
  {
@@ -44,7 +44,7 @@
    "Segundos": 1721,
    "Numero2": 1,
    "Segundos2": 0,
-   "EQUIPO": "QUICK-STEP FLOORS",
+   "EQUIPO": "QUICKSTEPFLOORS",
    "Etapa": 6
  },
  {
@@ -52,7 +52,7 @@
    "Segundos": 1716,
    "Numero2": 1,
    "Segundos2": 0,
-   "EQUIPO": "QUICK-STEP FLOORS",
+   "EQUIPO": "QUICKSTEPFLOORS",
    "Etapa": 7
  },
  {
@@ -60,7 +60,7 @@
    "Segundos": 2543,
    "Numero2": 1,
    "Segundos2": 0,
-   "EQUIPO": "QUICK-STEP FLOORS",
+   "EQUIPO": "QUICKSTEPFLOORS",
    "Etapa": 8
  },
  {
@@ -68,7 +68,7 @@
    "Segundos": 38,
    "Numero2": 2,
    "Segundos2": 4,
-   "EQUIPO": "BORA - HANSGROHE",
+   "EQUIPO": "BORAHANSGROHE",
    "Etapa": 2
  },
  {
@@ -76,7 +76,7 @@
    "Segundos": 105,
    "Numero2": 2,
    "Segundos2": 9,
-   "EQUIPO": "LOTTO SOUDAL",
+   "EQUIPO": "LOTTOSOUDAL",
    "Etapa": 3
  },
  {
@@ -84,7 +84,7 @@
    "Segundos": 79,
    "Numero2": 2,
    "Segundos2": 4,
-   "EQUIPO": "ORICA - SCOTT",
+   "EQUIPO": "ORICASCOTT",
    "Etapa": 1
  },
  {
@@ -92,7 +92,7 @@
    "Segundos": 793,
    "Numero2": 2,
    "Segundos2": 6,
-   "EQUIPO": "TEAM SKY",
+   "EQUIPO": "TEAMSKY",
    "Etapa": 4
  },
  {
@@ -100,7 +100,7 @@
    "Segundos": 793,
    "Numero2": 2,
    "Segundos2": 6,
-   "EQUIPO": "TEAM SKY",
+   "EQUIPO": "TEAMSKY",
    "Etapa": 5
  },
  {
@@ -108,7 +108,7 @@
    "Segundos": 923,
    "Numero2": 2,
    "Segundos2": 6,
-   "EQUIPO": "TEAM SKY",
+   "EQUIPO": "TEAMSKY",
    "Etapa": 6
  },
  {
@@ -116,7 +116,7 @@
    "Segundos": 996,
    "Numero2": 2,
    "Segundos2": 6,
-   "EQUIPO": "TEAM SKY",
+   "EQUIPO": "TEAMSKY",
    "Etapa": 7
  },
  {
@@ -124,7 +124,7 @@
    "Segundos": 1171,
    "Numero2": 2,
    "Segundos2": 6,
-   "EQUIPO": "TEAM SKY",
+   "EQUIPO": "TEAMSKY",
    "Etapa": 8
  },
  {
@@ -132,7 +132,7 @@
    "Segundos": 100,
    "Numero2": 3,
    "Segundos2": 13,
-   "EQUIPO": "BORA - HANSGROHE",
+   "EQUIPO": "BORAHANSGROHE",
    "Etapa": 3
  },
  {
@@ -140,7 +140,7 @@
    "Segundos": 23,
    "Numero2": 3,
    "Segundos2": 6,
-   "EQUIPO": "LOTTO SOUDAL",
+   "EQUIPO": "LOTTOSOUDAL",
    "Etapa": 1
  },
  {
@@ -148,7 +148,7 @@
    "Segundos": 103,
    "Numero2": 3,
    "Segundos2": 8,
-   "EQUIPO": "ORICA - SCOTT",
+   "EQUIPO": "ORICASCOTT",
    "Etapa": 2
  },
  {
@@ -156,7 +156,7 @@
    "Segundos": 1506,
    "Numero2": 3,
    "Segundos2": 10,
-   "EQUIPO": "ORICA - SCOTT",
+   "EQUIPO": "ORICASCOTT",
    "Etapa": 4
  },
  {
@@ -164,7 +164,7 @@
    "Segundos": 1624,
    "Numero2": 3,
    "Segundos2": 10,
-   "EQUIPO": "ORICA - SCOTT",
+   "EQUIPO": "ORICASCOTT",
    "Etapa": 5
  },
  {
@@ -172,7 +172,7 @@
    "Segundos": 2070,
    "Numero2": 3,
    "Segundos2": 10,
-   "EQUIPO": "ORICA - SCOTT",
+   "EQUIPO": "ORICASCOTT",
    "Etapa": 6
  },
  {
@@ -180,7 +180,7 @@
    "Segundos": 2215,
    "Numero2": 3,
    "Segundos2": 10,
-   "EQUIPO": "ORICA - SCOTT",
+   "EQUIPO": "ORICASCOTT",
    "Etapa": 7
  },
  {
@@ -188,7 +188,7 @@
    "Segundos": 2859,
    "Numero2": 3,
    "Segundos2": 10,
-   "EQUIPO": "ORICA - SCOTT",
+   "EQUIPO": "ORICASCOTT",
    "Etapa": 8
  },
  {
@@ -196,7 +196,7 @@
    "Segundos": 874,
    "Numero2": 4,
    "Segundos2": 10,
-   "EQUIPO": "AG2R LA MONDIALE",
+   "EQUIPO": "AG2RLAMONDIALE",
    "Etapa": 5
  },
  {
@@ -204,7 +204,7 @@
    "Segundos": 953.5,
    "Numero2": 4,
    "Segundos2": 10,
-   "EQUIPO": "BAHRAIN - MERIDA",
+   "EQUIPO": "BAHRAINMERIDA",
    "Etapa": 4
  },
  {
@@ -212,7 +212,7 @@
    "Segundos": 1113.5,
    "Numero2": 4,
    "Segundos2": 10,
-   "EQUIPO": "BAHRAIN - MERIDA",
+   "EQUIPO": "BAHRAINMERIDA",
    "Etapa": 6
  },
  {
@@ -220,7 +220,7 @@
    "Segundos": 1128.5,
    "Numero2": 4,
    "Segundos2": 10,
-   "EQUIPO": "BAHRAIN - MERIDA",
+   "EQUIPO": "BAHRAINMERIDA",
    "Etapa": 7
  },
  {
@@ -228,7 +228,7 @@
    "Segundos": 1325,
    "Numero2": 4,
    "Segundos2": 10,
-   "EQUIPO": "BAHRAIN - MERIDA",
+   "EQUIPO": "BAHRAINMERIDA",
    "Etapa": 8
  },
  {
@@ -236,7 +236,7 @@
    "Segundos": 28,
    "Numero2": 4,
    "Segundos2": 8,
-   "EQUIPO": "GAZPROM - RUSVELO",
+   "EQUIPO": "GAZPROMRUSVELO",
    "Etapa": 1
  },
  {
@@ -244,7 +244,7 @@
    "Segundos": 14,
    "Numero2": 4,
    "Segundos2": 8,
-   "EQUIPO": "UAE TEAM EMIRATES",
+   "EQUIPO": "UAETEAMEMIRATES",
    "Etapa": 2
  },
  {
@@ -252,7 +252,7 @@
    "Segundos": 874,
    "Numero2": 5,
    "Segundos2": 10,
-   "EQUIPO": "AG2R LA MONDIALE",
+   "EQUIPO": "AG2RLAMONDIALE",
    "Etapa": 4
  },
  {
@@ -260,7 +260,7 @@
    "Segundos": 907.5,
    "Numero2": 5,
    "Segundos2": 10,
-   "EQUIPO": "AG2R LA MONDIALE",
+   "EQUIPO": "AG2RLAMONDIALE",
    "Etapa": 6
  },
  {
@@ -268,7 +268,7 @@
    "Segundos": 912,
    "Numero2": 5,
    "Segundos2": 10,
-   "EQUIPO": "AG2R LA MONDIALE",
+   "EQUIPO": "AG2RLAMONDIALE",
    "Etapa": 7
  },
  {
@@ -276,7 +276,7 @@
    "Segundos": 1125,
    "Numero2": 5,
    "Segundos2": 10,
-   "EQUIPO": "AG2R LA MONDIALE",
+   "EQUIPO": "AG2RLAMONDIALE",
    "Etapa": 8
  },
  {
@@ -284,7 +284,7 @@
    "Segundos": 174,
    "Numero2": 5,
    "Segundos2": 13,
-   "EQUIPO": "BAHRAIN - MERIDA",
+   "EQUIPO": "BAHRAINMERIDA",
    "Etapa": 3
  },
  {
@@ -292,7 +292,7 @@
    "Segundos": 1039.5,
    "Numero2": 5,
    "Segundos2": 10,
-   "EQUIPO": "BAHRAIN - MERIDA",
+   "EQUIPO": "BAHRAINMERIDA",
    "Etapa": 5
  },
  {
@@ -300,7 +300,7 @@
    "Segundos": 28,
    "Numero2": 5,
    "Segundos2": 10,
-   "EQUIPO": "TREK - SEGAFREDO",
+   "EQUIPO": "TREKSEGAFREDO",
    "Etapa": 1
  },
  {
@@ -308,7 +308,7 @@
    "Segundos": 72,
    "Numero2": 5,
    "Segundos2": 10,
-   "EQUIPO": "TREK - SEGAFREDO",
+   "EQUIPO": "TREKSEGAFREDO",
    "Etapa": 2
  },
  {
@@ -316,7 +316,7 @@
    "Segundos": 226,
    "Numero2": 6,
    "Segundos2": 12,
-   "EQUIPO": "GAZPROM - RUSVELO",
+   "EQUIPO": "GAZPROMRUSVELO",
    "Etapa": 2
  },
  {
@@ -324,7 +324,7 @@
    "Segundos": 363,
    "Numero2": 6,
    "Segundos2": 10,
-   "EQUIPO": "MOVISTAR TEAM",
+   "EQUIPO": "MOVISTARTEAM",
    "Etapa": 4
  },
  {
@@ -332,7 +332,7 @@
    "Segundos": 383,
    "Numero2": 6,
    "Segundos2": 10,
-   "EQUIPO": "MOVISTAR TEAM",
+   "EQUIPO": "MOVISTARTEAM",
    "Etapa": 6
  },
  {
@@ -340,7 +340,7 @@
    "Segundos": 176,
    "Numero2": 6,
    "Segundos2": 17,
-   "EQUIPO": "ORICA - SCOTT",
+   "EQUIPO": "ORICASCOTT",
    "Etapa": 3
  },
  {
@@ -348,7 +348,7 @@
    "Segundos": 708,
    "Numero2": 6,
    "Segundos2": 10,
-   "EQUIPO": "TEAM SUNWEB",
+   "EQUIPO": "TEAMSUNWEB",
    "Etapa": 5
  },
  {
@@ -356,7 +356,7 @@
    "Segundos": 1055,
    "Numero2": 6,
    "Segundos2": 10,
-   "EQUIPO": "TEAM SUNWEB",
+   "EQUIPO": "TEAMSUNWEB",
    "Etapa": 7
  },
  {
@@ -364,7 +364,7 @@
    "Segundos": 1135,
    "Numero2": 6,
    "Segundos2": 10,
-   "EQUIPO": "TEAM SUNWEB",
+   "EQUIPO": "TEAMSUNWEB",
    "Etapa": 8
  },
  {
@@ -372,7 +372,7 @@
    "Segundos": 10,
    "Numero2": 6,
    "Segundos2": 10,
-   "EQUIPO": "UAE TEAM EMIRATES",
+   "EQUIPO": "UAETEAMEMIRATES",
    "Etapa": 1
  },
  {
@@ -380,7 +380,7 @@
    "Segundos": 363,
    "Numero2": 7,
    "Segundos2": 10,
-   "EQUIPO": "MOVISTAR TEAM",
+   "EQUIPO": "MOVISTARTEAM",
    "Etapa": 5
  },
  {
@@ -388,7 +388,7 @@
    "Segundos": 392,
    "Numero2": 7,
    "Segundos2": 10,
-   "EQUIPO": "MOVISTAR TEAM",
+   "EQUIPO": "MOVISTARTEAM",
    "Etapa": 7
  },
  {
@@ -396,7 +396,7 @@
    "Segundos": 796,
    "Numero2": 7,
    "Segundos2": 10,
-   "EQUIPO": "MOVISTAR TEAM",
+   "EQUIPO": "MOVISTARTEAM",
    "Etapa": 8
  },
  {
@@ -404,7 +404,7 @@
    "Segundos": 25,
    "Numero2": 7,
    "Segundos2": 10,
-   "EQUIPO": "TEAM DIMENSION DATA",
+   "EQUIPO": "TEAMDIMENSIONDATA",
    "Etapa": 1
  },
  {
@@ -412,7 +412,7 @@
    "Segundos": 38,
    "Numero2": 7,
    "Segundos2": 14,
-   "EQUIPO": "TEAM DIMENSION DATA",
+   "EQUIPO": "TEAMDIMENSIONDATA",
    "Etapa": 2
  },
  {
@@ -420,7 +420,7 @@
    "Segundos": 708,
    "Numero2": 7,
    "Segundos2": 10,
-   "EQUIPO": "TEAM SUNWEB",
+   "EQUIPO": "TEAMSUNWEB",
    "Etapa": 4
  },
  {
@@ -428,7 +428,7 @@
    "Segundos": 1046,
    "Numero2": 7,
    "Segundos2": 10,
-   "EQUIPO": "TEAM SUNWEB",
+   "EQUIPO": "TEAMSUNWEB",
    "Etapa": 6
  },
  {
@@ -436,7 +436,7 @@
    "Segundos": 87,
    "Numero2": 7,
    "Segundos2": 17,
-   "EQUIPO": "UAE TEAM EMIRATES",
+   "EQUIPO": "UAETEAMEMIRATES",
    "Etapa": 3
  },
  {
@@ -444,7 +444,7 @@
    "Segundos": 174,
    "Numero2": 8,
    "Segundos2": 23,
-   "EQUIPO": "TEAM DIMENSION DATA",
+   "EQUIPO": "TEAMDIMENSIONDATA",
    "Etapa": 3
  },
  {
@@ -452,7 +452,7 @@
    "Segundos": 1006,
    "Numero2": 8,
    "Segundos2": 10,
-   "EQUIPO": "TREK - SEGAFREDO",
+   "EQUIPO": "TREKSEGAFREDO",
    "Etapa": 4
  },
  {
@@ -460,7 +460,7 @@
    "Segundos": 1094,
    "Numero2": 8,
    "Segundos2": 10,
-   "EQUIPO": "TREK - SEGAFREDO",
+   "EQUIPO": "TREKSEGAFREDO",
    "Etapa": 5
  },
  {
@@ -468,7 +468,7 @@
    "Segundos": 1296,
    "Numero2": 8,
    "Segundos2": 10,
-   "EQUIPO": "TREK - SEGAFREDO",
+   "EQUIPO": "TREKSEGAFREDO",
    "Etapa": 6
  },
  {
@@ -476,7 +476,7 @@
    "Segundos": 1294,
    "Numero2": 8,
    "Segundos2": 10,
-   "EQUIPO": "TREK - SEGAFREDO",
+   "EQUIPO": "TREKSEGAFREDO",
    "Etapa": 7
  },
  {
@@ -484,7 +484,7 @@
    "Segundos": 1694,
    "Numero2": 8,
    "Segundos2": 10,
-   "EQUIPO": "TREK - SEGAFREDO",
+   "EQUIPO": "TREKSEGAFREDO",
    "Etapa": 8
  },
  {
@@ -492,7 +492,7 @@
    "Segundos": 1056,
    "Numero2": 9,
    "Segundos2": 10,
-   "EQUIPO": "BMC RACING TEAM",
+   "EQUIPO": "BMCRACINGTEAM",
    "Etapa": 5
  },
  {
@@ -500,7 +500,7 @@
    "Segundos": 1072,
    "Numero2": 9,
    "Segundos2": 10,
-   "EQUIPO": "BMC RACING TEAM",
+   "EQUIPO": "BMCRACINGTEAM",
    "Etapa": 6
  },
  {
@@ -516,7 +516,7 @@
    "Segundos": 14,
    "Numero2": 9,
    "Segundos2": 14,
-   "EQUIPO": "QUICK-STEP FLOORS",
+   "EQUIPO": "QUICKSTEPFLOORS",
    "Etapa": 2
  },
  {
@@ -524,7 +524,7 @@
    "Segundos": 245,
    "Numero2": 9,
    "Segundos2": 23,
-   "EQUIPO": "TEAM LOTTO NL - JUMBO",
+   "EQUIPO": "TEAMLOTTONLJUMBO",
    "Etapa": 3
  },
  {
@@ -532,7 +532,7 @@
    "Segundos": 1138,
    "Numero2": 10,
    "Segundos2": 10,
-   "EQUIPO": "BMC RACING TEAM",
+   "EQUIPO": "BMCRACINGTEAM",
    "Etapa": 7
  },
  {
@@ -548,7 +548,7 @@
    "Segundos": 83,
    "Numero2": 10,
    "Segundos2": 14,
-   "EQUIPO": "TEAM LOTTO NL - JUMBO",
+   "EQUIPO": "TEAMLOTTONLJUMBO",
    "Etapa": 2
  },
  {
@@ -556,7 +556,7 @@
    "Segundos": 1046,
    "Numero2": 11,
    "Segundos2": 10,
-   "EQUIPO": "BMC RACING TEAM",
+   "EQUIPO": "BMCRACINGTEAM",
    "Etapa": 4
  },
  {
@@ -564,7 +564,7 @@
    "Segundos": 1652.5,
    "Numero2": 11,
    "Segundos2": 10,
-   "EQUIPO": "BMC RACING TEAM",
+   "EQUIPO": "BMCRACINGTEAM",
    "Etapa": 8
  },
  {
@@ -596,7 +596,7 @@
    "Segundos": 27,
    "Numero2": 11,
    "Segundos2": 14,
-   "EQUIPO": "TEAM SKY",
+   "EQUIPO": "TEAMSKY",
    "Etapa": 2
  },
  {
@@ -604,7 +604,7 @@
    "Segundos": 100,
    "Numero2": 11,
    "Segundos2": 23,
-   "EQUIPO": "TEAM SKY",
+   "EQUIPO": "TEAMSKY",
    "Etapa": 3
  },
  {
@@ -612,7 +612,7 @@
    "Segundos": 28,
    "Numero2": 11,
    "Segundos2": 10,
-   "EQUIPO": "TEAM SUNWEB",
+   "EQUIPO": "TEAMSUNWEB",
    "Etapa": 1
  },
  {
@@ -620,7 +620,7 @@
    "Segundos": 32,
    "Numero2": 13,
    "Segundos2": 14,
-   "EQUIPO": "BAHRAIN - MERIDA",
+   "EQUIPO": "BAHRAINMERIDA",
    "Etapa": 2
  },
  {
@@ -628,7 +628,7 @@
    "Segundos": 701,
    "Numero2": 13,
    "Segundos2": 10,
-   "EQUIPO": "CANNONDALE-DRAPAC PRO C.T.",
+   "EQUIPO": "CANNONDALEDRAPACPROC.T.",
    "Etapa": 4
  },
  {
@@ -636,7 +636,7 @@
    "Segundos": 721,
    "Numero2": 13,
    "Segundos2": 10,
-   "EQUIPO": "CANNONDALE-DRAPAC PRO C.T.",
+   "EQUIPO": "CANNONDALEDRAPACPROC.T.",
    "Etapa": 5
  },
  {
@@ -644,7 +644,7 @@
    "Segundos": 1370,
    "Numero2": 13,
    "Segundos2": 10,
-   "EQUIPO": "CANNONDALE-DRAPAC PRO C.T.",
+   "EQUIPO": "CANNONDALEDRAPACPROC.T.",
    "Etapa": 6
  },
  {
@@ -652,7 +652,7 @@
    "Segundos": 1460,
    "Numero2": 13,
    "Segundos2": 10,
-   "EQUIPO": "CANNONDALE-DRAPAC PRO C.T.",
+   "EQUIPO": "CANNONDALEDRAPACPROC.T.",
    "Etapa": 7
  },
  {
@@ -660,7 +660,7 @@
    "Segundos": 1667,
    "Numero2": 13,
    "Segundos2": 10,
-   "EQUIPO": "CANNONDALE-DRAPAC PRO C.T.",
+   "EQUIPO": "CANNONDALEDRAPACPROC.T.",
    "Etapa": 8
  },
  {
@@ -668,7 +668,7 @@
    "Segundos": 10,
    "Numero2": 13,
    "Segundos2": 10,
-   "EQUIPO": "QUICK-STEP FLOORS",
+   "EQUIPO": "QUICKSTEPFLOORS",
    "Etapa": 1
  },
  {
@@ -676,7 +676,7 @@
    "Segundos": 156,
    "Numero2": 14,
    "Segundos2": 23,
-   "EQUIPO": "AG2R LA MONDIALE",
+   "EQUIPO": "AG2RLAMONDIALE",
    "Etapa": 3
  },
  {
@@ -684,7 +684,7 @@
    "Segundos": 32,
    "Numero2": 14,
    "Segundos2": 14,
-   "EQUIPO": "CCC SPRANDI POLKOWICE",
+   "EQUIPO": "CCCSPRANDIPOLKOWICE",
    "Etapa": 2
  },
  {
@@ -692,7 +692,7 @@
    "Segundos": 1359,
    "Numero2": 14,
    "Segundos2": 14,
-   "EQUIPO": "TEAM KATUSHA ALPECIN",
+   "EQUIPO": "TEAMKATUSHAALPECIN",
    "Etapa": 4
  },
  {
@@ -700,7 +700,7 @@
    "Segundos": 1369,
    "Numero2": 14,
    "Segundos2": 14,
-   "EQUIPO": "TEAM KATUSHA ALPECIN",
+   "EQUIPO": "TEAMKATUSHAALPECIN",
    "Etapa": 5
  },
  {
@@ -708,7 +708,7 @@
    "Segundos": 1805.5,
    "Numero2": 14,
    "Segundos2": 14,
-   "EQUIPO": "TEAM KATUSHA ALPECIN",
+   "EQUIPO": "TEAMKATUSHAALPECIN",
    "Etapa": 6
  },
  {
@@ -716,7 +716,7 @@
    "Segundos": 1917.5,
    "Numero2": 14,
    "Segundos2": 14,
-   "EQUIPO": "TEAM KATUSHA ALPECIN",
+   "EQUIPO": "TEAMKATUSHAALPECIN",
    "Etapa": 7
  },
  {
@@ -724,7 +724,7 @@
    "Segundos": 2621,
    "Numero2": 14,
    "Segundos2": 14,
-   "EQUIPO": "TEAM KATUSHA ALPECIN",
+   "EQUIPO": "TEAMKATUSHAALPECIN",
    "Etapa": 8
  },
  {
@@ -732,7 +732,7 @@
    "Segundos": 44,
    "Numero2": 14,
    "Segundos2": 10,
-   "EQUIPO": "TEAM LOTTO NL - JUMBO",
+   "EQUIPO": "TEAMLOTTONLJUMBO",
    "Etapa": 1
  },
  {
@@ -740,7 +740,7 @@
    "Segundos": 28,
    "Numero2": 15,
    "Segundos2": 10,
-   "EQUIPO": "TEAM KATUSHA ALPECIN",
+   "EQUIPO": "TEAMKATUSHAALPECIN",
    "Etapa": 1
  },
  {
@@ -748,7 +748,7 @@
    "Segundos": 1198,
    "Numero2": 15,
    "Segundos2": 23,
-   "EQUIPO": "TEAM LOTTO NL - JUMBO",
+   "EQUIPO": "TEAMLOTTONLJUMBO",
    "Etapa": 4
  },
  {
@@ -756,7 +756,7 @@
    "Segundos": 1218,
    "Numero2": 15,
    "Segundos2": 23,
-   "EQUIPO": "TEAM LOTTO NL - JUMBO",
+   "EQUIPO": "TEAMLOTTONLJUMBO",
    "Etapa": 5
  },
  {
@@ -764,7 +764,7 @@
    "Segundos": 1538,
    "Numero2": 15,
    "Segundos2": 23,
-   "EQUIPO": "TEAM LOTTO NL - JUMBO",
+   "EQUIPO": "TEAMLOTTONLJUMBO",
    "Etapa": 6
  },
  {
@@ -772,7 +772,7 @@
    "Segundos": 1628,
    "Numero2": 15,
    "Segundos2": 23,
-   "EQUIPO": "TEAM LOTTO NL - JUMBO",
+   "EQUIPO": "TEAMLOTTONLJUMBO",
    "Etapa": 7
  },
  {
@@ -780,7 +780,7 @@
    "Segundos": 2035,
    "Numero2": 15,
    "Segundos2": 23,
-   "EQUIPO": "TEAM LOTTO NL - JUMBO",
+   "EQUIPO": "TEAMLOTTONLJUMBO",
    "Etapa": 8
  },
  {
@@ -788,7 +788,7 @@
    "Segundos": 34,
    "Numero2": 16,
    "Segundos2": 14,
-   "EQUIPO": "MOVISTAR TEAM",
+   "EQUIPO": "MOVISTARTEAM",
    "Etapa": 2
  },
  {
@@ -796,7 +796,7 @@
    "Segundos": 176,
    "Numero2": 17,
    "Segundos2": 23,
-   "EQUIPO": "MOVISTAR TEAM",
+   "EQUIPO": "MOVISTARTEAM",
    "Etapa": 3
  },
  {
@@ -804,7 +804,7 @@
    "Segundos": 1298,
    "Numero2": 17,
    "Segundos2": 46,
-   "EQUIPO": "UAE TEAM EMIRATES",
+   "EQUIPO": "UAETEAMEMIRATES",
    "Etapa": 4
  },
  {
@@ -812,7 +812,7 @@
    "Segundos": 1298,
    "Numero2": 17,
    "Segundos2": 46,
-   "EQUIPO": "UAE TEAM EMIRATES",
+   "EQUIPO": "UAETEAMEMIRATES",
    "Etapa": 5
  },
  {
@@ -820,7 +820,7 @@
    "Segundos": 1622,
    "Numero2": 17,
    "Segundos2": 46,
-   "EQUIPO": "UAE TEAM EMIRATES",
+   "EQUIPO": "UAETEAMEMIRATES",
    "Etapa": 6
  },
  {
@@ -828,7 +828,7 @@
    "Segundos": 1692,
    "Numero2": 17,
    "Segundos2": 46,
-   "EQUIPO": "UAE TEAM EMIRATES",
+   "EQUIPO": "UAETEAMEMIRATES",
    "Etapa": 7
  },
  {
@@ -836,7 +836,7 @@
    "Segundos": 2099,
    "Numero2": 17,
    "Segundos2": 46,
-   "EQUIPO": "UAE TEAM EMIRATES",
+   "EQUIPO": "UAETEAMEMIRATES",
    "Etapa": 8
  },
  {
@@ -844,7 +844,7 @@
    "Segundos": 44,
    "Numero2": 17,
    "Segundos2": 10,
-   "EQUIPO": "WILIER TRIESTINA - SELLE ITALIA",
+   "EQUIPO": "WILIERTRIESTINASELLEITALIA",
    "Etapa": 1
  },
  {
@@ -852,7 +852,7 @@
    "Segundos": 32,
    "Numero2": 18,
    "Segundos2": 14,
-   "EQUIPO": "AG2R LA MONDIALE",
+   "EQUIPO": "AG2RLAMONDIALE",
    "Etapa": 2
  },
  {
@@ -860,7 +860,7 @@
    "Segundos": 797.5,
    "Numero2": 18,
    "Segundos2": 54,
-   "EQUIPO": "ASTANA PRO TEAM",
+   "EQUIPO": "ASTANAPROTEAM",
    "Etapa": 4
  },
  {
@@ -868,7 +868,7 @@
    "Segundos": 797.5,
    "Numero2": 18,
    "Segundos2": 54,
-   "EQUIPO": "ASTANA PRO TEAM",
+   "EQUIPO": "ASTANAPROTEAM",
    "Etapa": 5
  },
  {
@@ -876,7 +876,7 @@
    "Segundos": 943,
    "Numero2": 18,
    "Segundos2": 54,
-   "EQUIPO": "ASTANA PRO TEAM",
+   "EQUIPO": "ASTANAPROTEAM",
    "Etapa": 6
  },
  {
@@ -884,7 +884,7 @@
    "Segundos": 992.5,
    "Numero2": 18,
    "Segundos2": 63,
-   "EQUIPO": "ASTANA PRO TEAM",
+   "EQUIPO": "ASTANAPROTEAM",
    "Etapa": 7
  },
  {
@@ -892,7 +892,7 @@
    "Segundos": 1116,
    "Numero2": 18,
    "Segundos2": 73,
-   "EQUIPO": "ASTANA PRO TEAM",
+   "EQUIPO": "ASTANAPROTEAM",
    "Etapa": 8
  },
  {
@@ -900,7 +900,7 @@
    "Segundos": 79,
    "Numero2": 18,
    "Segundos2": 10,
-   "EQUIPO": "BARDIANI CSF",
+   "EQUIPO": "BARDIANICSF",
    "Etapa": 1
  },
  {
@@ -908,7 +908,7 @@
    "Segundos": 100,
    "Numero2": 18,
    "Segundos2": 23,
-   "EQUIPO": "CANNONDALE-DRAPAC PRO C.T.",
+   "EQUIPO": "CANNONDALEDRAPACPROC.T.",
    "Etapa": 3
  },
  {
@@ -916,7 +916,7 @@
    "Segundos": 23,
    "Numero2": 19,
    "Segundos2": 10,
-   "EQUIPO": "TEAM SKY",
+   "EQUIPO": "TEAMSKY",
    "Etapa": 1
  },
  {
@@ -924,7 +924,7 @@
    "Segundos": 105,
    "Numero2": 19,
    "Segundos2": 23,
-   "EQUIPO": "TEAM SUNWEB",
+   "EQUIPO": "TEAMSUNWEB",
    "Etapa": 3
  },
  {
@@ -932,7 +932,7 @@
    "Segundos": 257.5,
    "Numero2": 20,
    "Segundos2": 23,
-   "EQUIPO": "ASTANA PRO TEAM",
+   "EQUIPO": "ASTANAPROTEAM",
    "Etapa": 3
  },
  {
@@ -940,7 +940,7 @@
    "Segundos": 28,
    "Numero2": 20,
    "Segundos2": 10,
-   "EQUIPO": "CCC SPRANDI POLKOWICE",
+   "EQUIPO": "CCCSPRANDIPOLKOWICE",
    "Etapa": 1
  },
  {
@@ -948,7 +948,7 @@
    "Segundos": 69.5,
    "Numero2": 22,
    "Segundos2": 14,
-   "EQUIPO": "ASTANA PRO TEAM",
+   "EQUIPO": "ASTANAPROTEAM",
    "Etapa": 2
  },
  {
@@ -956,7 +956,7 @@
    "Segundos": 23,
    "Numero2": 22,
    "Segundos2": 10,
-   "EQUIPO": "MOVISTAR TEAM",
+   "EQUIPO": "MOVISTARTEAM",
    "Etapa": 1
  },
  {
@@ -964,7 +964,7 @@
    "Segundos": 28,
    "Numero2": 23,
    "Segundos2": 10,
-   "EQUIPO": "ASTANA PRO TEAM",
+   "EQUIPO": "ASTANAPROTEAM",
    "Etapa": 1
  },
  {
@@ -972,7 +972,7 @@
    "Segundos": 32,
    "Numero2": 23,
    "Segundos2": 14,
-   "EQUIPO": "TEAM SUNWEB",
+   "EQUIPO": "TEAMSUNWEB",
    "Etapa": 2
  },
  {
@@ -980,7 +980,7 @@
    "Segundos": 28,
    "Numero2": 24,
    "Segundos2": 10,
-   "EQUIPO": "BAHRAIN - MERIDA",
+   "EQUIPO": "BAHRAINMERIDA",
    "Etapa": 1
  },
  {
@@ -988,7 +988,7 @@
    "Segundos": 116,
    "Numero2": 25,
    "Segundos2": 23,
-   "EQUIPO": "BMC RACING TEAM",
+   "EQUIPO": "BMCRACINGTEAM",
    "Etapa": 3
  },
  {
@@ -996,7 +996,7 @@
    "Segundos": 32,
    "Numero2": 25,
    "Segundos2": 14,
-   "EQUIPO": "CANNONDALE-DRAPAC PRO C.T.",
+   "EQUIPO": "CANNONDALEDRAPACPROC.T.",
    "Etapa": 2
  },
  {
@@ -1004,7 +1004,7 @@
    "Segundos": 1557,
    "Numero2": 25,
    "Segundos2": 137,
-   "EQUIPO": "LOTTO SOUDAL",
+   "EQUIPO": "LOTTOSOUDAL",
    "Etapa": 4
  },
  {
@@ -1012,7 +1012,7 @@
    "Segundos": 1570,
    "Numero2": 25,
    "Segundos2": 137,
-   "EQUIPO": "LOTTO SOUDAL",
+   "EQUIPO": "LOTTOSOUDAL",
    "Etapa": 5
  },
  {
@@ -1020,7 +1020,7 @@
    "Segundos": 1829,
    "Numero2": 25,
    "Segundos2": 145,
-   "EQUIPO": "LOTTO SOUDAL",
+   "EQUIPO": "LOTTOSOUDAL",
    "Etapa": 6
  },
  {
@@ -1028,7 +1028,7 @@
    "Segundos": 1884,
    "Numero2": 25,
    "Segundos2": 145,
-   "EQUIPO": "LOTTO SOUDAL",
+   "EQUIPO": "LOTTOSOUDAL",
    "Etapa": 7
  },
  {
@@ -1036,7 +1036,7 @@
    "Segundos": 2452,
    "Numero2": 25,
    "Segundos2": 154,
-   "EQUIPO": "LOTTO SOUDAL",
+   "EQUIPO": "LOTTOSOUDAL",
    "Etapa": 8
  },
  {
@@ -1044,7 +1044,7 @@
    "Segundos": 32,
    "Numero2": 26,
    "Segundos2": 14,
-   "EQUIPO": "BMC RACING TEAM",
+   "EQUIPO": "BMCRACINGTEAM",
    "Etapa": 2
  },
  {
@@ -1052,7 +1052,7 @@
    "Segundos": 2219,
    "Numero2": 26,
    "Segundos2": 219,
-   "EQUIPO": "TEAM DIMENSION DATA",
+   "EQUIPO": "TEAMDIMENSIONDATA",
    "Etapa": 8
  },
  {
@@ -1060,7 +1060,7 @@
    "Segundos": 350,
    "Numero2": 26,
    "Segundos2": 23,
-   "EQUIPO": "TREK - SEGAFREDO",
+   "EQUIPO": "TREKSEGAFREDO",
    "Etapa": 3
  },
  {
@@ -1068,7 +1068,7 @@
    "Segundos": 1607,
    "Numero2": 27,
    "Segundos2": 210,
-   "EQUIPO": "TEAM DIMENSION DATA",
+   "EQUIPO": "TEAMDIMENSIONDATA",
    "Etapa": 6
  },
  {
@@ -1076,7 +1076,7 @@
    "Segundos": 1612,
    "Numero2": 27,
    "Segundos2": 219,
-   "EQUIPO": "TEAM DIMENSION DATA",
+   "EQUIPO": "TEAMDIMENSIONDATA",
    "Etapa": 7
  },
  {
@@ -1092,7 +1092,7 @@
    "Segundos": 1518,
    "Numero2": 28,
    "Segundos2": 186,
-   "EQUIPO": "TEAM DIMENSION DATA",
+   "EQUIPO": "TEAMDIMENSIONDATA",
    "Etapa": 4
  },
  {
@@ -1100,7 +1100,7 @@
    "Segundos": 1518,
    "Numero2": 28,
    "Segundos2": 186,
-   "EQUIPO": "TEAM DIMENSION DATA",
+   "EQUIPO": "TEAMDIMENSIONDATA",
    "Etapa": 5
  },
  {
@@ -1108,7 +1108,7 @@
    "Segundos": 28,
    "Numero2": 30,
    "Segundos2": 10,
-   "EQUIPO": "BMC RACING TEAM",
+   "EQUIPO": "BMCRACINGTEAM",
    "Etapa": 1
  },
  {
@@ -1116,7 +1116,7 @@
    "Segundos": 10,
    "Numero2": 32,
    "Segundos2": 10,
-   "EQUIPO": "AG2R LA MONDIALE",
+   "EQUIPO": "AG2RLAMONDIALE",
    "Etapa": 1
  },
  {
@@ -1124,7 +1124,7 @@
    "Segundos": 2446,
    "Numero2": 33,
    "Segundos2": 403,
-   "EQUIPO": "CCC SPRANDI POLKOWICE",
+   "EQUIPO": "CCCSPRANDIPOLKOWICE",
    "Etapa": 8
  },
  {
@@ -1132,7 +1132,7 @@
    "Segundos": 1832,
    "Numero2": 36,
    "Segundos2": 389,
-   "EQUIPO": "CCC SPRANDI POLKOWICE",
+   "EQUIPO": "CCCSPRANDIPOLKOWICE",
    "Etapa": 7
  },
  {
@@ -1140,7 +1140,7 @@
    "Segundos": 3253,
    "Numero2": 36,
    "Segundos2": 493,
-   "EQUIPO": "WILIER TRIESTINA - SELLE ITALIA",
+   "EQUIPO": "WILIERTRIESTINASELLEITALIA",
    "Etapa": 8
  },
  {
@@ -1148,7 +1148,7 @@
    "Segundos": 1582,
    "Numero2": 38,
    "Segundos2": 360,
-   "EQUIPO": "CCC SPRANDI POLKOWICE",
+   "EQUIPO": "CCCSPRANDIPOLKOWICE",
    "Etapa": 4
  },
  {
@@ -1156,7 +1156,7 @@
    "Segundos": 1582,
    "Numero2": 38,
    "Segundos2": 360,
-   "EQUIPO": "CCC SPRANDI POLKOWICE",
+   "EQUIPO": "CCCSPRANDIPOLKOWICE",
    "Etapa": 5
  },
  {
@@ -1164,7 +1164,7 @@
    "Segundos": 1709,
    "Numero2": 38,
    "Segundos2": 380,
-   "EQUIPO": "CCC SPRANDI POLKOWICE",
+   "EQUIPO": "CCCSPRANDIPOLKOWICE",
    "Etapa": 6
  },
  {
@@ -1180,7 +1180,7 @@
    "Segundos": 401,
    "Numero2": 38,
    "Segundos2": 37,
-   "EQUIPO": "WILIER TRIESTINA - SELLE ITALIA",
+   "EQUIPO": "WILIERTRIESTINASELLEITALIA",
    "Etapa": 3
  },
  {
@@ -1188,7 +1188,7 @@
    "Segundos": 1731,
    "Numero2": 40,
    "Segundos2": 415,
-   "EQUIPO": "WILIER TRIESTINA - SELLE ITALIA",
+   "EQUIPO": "WILIERTRIESTINASELLEITALIA",
    "Etapa": 4
  },
  {
@@ -1196,7 +1196,7 @@
    "Segundos": 1819,
    "Numero2": 40,
    "Segundos2": 415,
-   "EQUIPO": "WILIER TRIESTINA - SELLE ITALIA",
+   "EQUIPO": "WILIERTRIESTINASELLEITALIA",
    "Etapa": 5
  },
  {
@@ -1204,7 +1204,7 @@
    "Segundos": 2726,
    "Numero2": 40,
    "Segundos2": 467,
-   "EQUIPO": "WILIER TRIESTINA - SELLE ITALIA",
+   "EQUIPO": "WILIERTRIESTINASELLEITALIA",
    "Etapa": 7
  },
  {
@@ -1212,7 +1212,7 @@
    "Segundos": 2603,
    "Numero2": 41,
    "Segundos2": 452,
-   "EQUIPO": "WILIER TRIESTINA - SELLE ITALIA",
+   "EQUIPO": "WILIERTRIESTINASELLEITALIA",
    "Etapa": 6
  },
  {
@@ -1220,7 +1220,7 @@
    "Segundos": 2762,
    "Numero2": 42,
    "Segundos2": 635,
-   "EQUIPO": "BORA - HANSGROHE",
+   "EQUIPO": "BORAHANSGROHE",
    "Etapa": 8
  },
  {
@@ -1228,7 +1228,7 @@
    "Segundos": 273,
    "Numero2": 43,
    "Segundos2": 43,
-   "EQUIPO": "TEAM KATUSHA ALPECIN",
+   "EQUIPO": "TEAMKATUSHAALPECIN",
    "Etapa": 3
  },
  {
@@ -1236,7 +1236,7 @@
    "Segundos": 1991,
    "Numero2": 45,
    "Segundos2": 626,
-   "EQUIPO": "BORA - HANSGROHE",
+   "EQUIPO": "BORAHANSGROHE",
    "Etapa": 6
  },
  {
@@ -1244,7 +1244,7 @@
    "Segundos": 2148,
    "Numero2": 45,
    "Segundos2": 635,
-   "EQUIPO": "BORA - HANSGROHE",
+   "EQUIPO": "BORAHANSGROHE",
    "Etapa": 7
  },
  {
@@ -1252,7 +1252,7 @@
    "Segundos": 261,
    "Numero2": 48,
    "Segundos2": 14,
-   "EQUIPO": "BARDIANI CSF",
+   "EQUIPO": "BARDIANICSF",
    "Etapa": 2
  },
  {
@@ -1260,7 +1260,7 @@
    "Segundos": 28,
    "Numero2": 48,
    "Segundos2": 10,
-   "EQUIPO": "CANNONDALE-DRAPAC PRO C.T.",
+   "EQUIPO": "CANNONDALEDRAPACPROC.T.",
    "Etapa": 1
  },
  {
@@ -1268,7 +1268,7 @@
    "Segundos": 1589,
    "Numero2": 52,
    "Segundos2": 626,
-   "EQUIPO": "BORA - HANSGROHE",
+   "EQUIPO": "BORAHANSGROHE",
    "Etapa": 4
  },
  {
@@ -1276,7 +1276,7 @@
    "Segundos": 1589,
    "Numero2": 52,
    "Segundos2": 626,
-   "EQUIPO": "BORA - HANSGROHE",
+   "EQUIPO": "BORAHANSGROHE",
    "Etapa": 5
  },
  {
@@ -1284,7 +1284,7 @@
    "Segundos": 350,
    "Numero2": 52,
    "Segundos2": 87,
-   "EQUIPO": "CCC SPRANDI POLKOWICE",
+   "EQUIPO": "CCCSPRANDIPOLKOWICE",
    "Etapa": 3
  },
  {
@@ -1300,7 +1300,7 @@
    "Segundos": 2162,
    "Numero2": 55,
    "Segundos2": 863,
-   "EQUIPO": "GAZPROM - RUSVELO",
+   "EQUIPO": "GAZPROMRUSVELO",
    "Etapa": 7
  },
  {
@@ -1308,7 +1308,7 @@
    "Segundos": 2157,
    "Numero2": 56,
    "Segundos2": 848,
-   "EQUIPO": "GAZPROM - RUSVELO",
+   "EQUIPO": "GAZPROMRUSVELO",
    "Etapa": 6
  },
  {
@@ -1316,7 +1316,7 @@
    "Segundos": 526,
    "Numero2": 61,
    "Segundos2": 87,
-   "EQUIPO": "GAZPROM - RUSVELO",
+   "EQUIPO": "GAZPROMRUSVELO",
    "Etapa": 3
  },
  {
@@ -1324,7 +1324,7 @@
    "Segundos": 1865,
    "Numero2": 63,
    "Segundos2": 799,
-   "EQUIPO": "GAZPROM - RUSVELO",
+   "EQUIPO": "GAZPROMRUSVELO",
    "Etapa": 5
  },
  {
@@ -1332,7 +1332,7 @@
    "Segundos": 1787,
    "Numero2": 64,
    "Segundos2": 799,
-   "EQUIPO": "GAZPROM - RUSVELO",
+   "EQUIPO": "GAZPROMRUSVELO",
    "Etapa": 4
  },
  {
@@ -1340,7 +1340,7 @@
    "Segundos": 91,
    "Numero2": 64,
    "Segundos2": 31,
-   "EQUIPO": "WILIER TRIESTINA - SELLE ITALIA",
+   "EQUIPO": "WILIERTRIESTINASELLEITALIA",
    "Etapa": 2
  },
  {
@@ -1348,7 +1348,7 @@
    "Segundos": 2771,
    "Numero2": 69,
    "Segundos2": 1477,
-   "EQUIPO": "GAZPROM - RUSVELO",
+   "EQUIPO": "GAZPROMRUSVELO",
    "Etapa": 8
  },
  {
@@ -1356,7 +1356,7 @@
    "Segundos": 579,
    "Numero2": 83,
    "Segundos2": 116,
-   "EQUIPO": "BARDIANI CSF",
+   "EQUIPO": "BARDIANICSF",
    "Etapa": 3
  },
  {
@@ -1364,7 +1364,7 @@
    "Segundos": 210,
    "Numero2": 90,
    "Segundos2": 34,
-   "EQUIPO": "TEAM KATUSHA ALPECIN",
+   "EQUIPO": "TEAMKATUSHAALPECIN",
    "Etapa": 2
  },
  {
@@ -1372,7 +1372,7 @@
    "Segundos": 3435,
    "Numero2": 133,
    "Segundos2": 2723,
-   "EQUIPO": "BARDIANI CSF",
+   "EQUIPO": "BARDIANICSF",
    "Etapa": 8
  },
  {
@@ -1380,7 +1380,7 @@
    "Segundos": 1929,
    "Numero2": 138,
    "Segundos2": 1677,
-   "EQUIPO": "BARDIANI CSF",
+   "EQUIPO": "BARDIANICSF",
    "Etapa": 5
  },
  {
@@ -1388,7 +1388,7 @@
    "Segundos": 2650,
    "Numero2": 139,
    "Segundos2": 2217,
-   "EQUIPO": "BARDIANI CSF",
+   "EQUIPO": "BARDIANICSF",
    "Etapa": 7
  },
  {
@@ -1396,7 +1396,7 @@
    "Segundos": 1909,
    "Numero2": 140,
    "Segundos2": 1677,
-   "EQUIPO": "BARDIANI CSF",
+   "EQUIPO": "BARDIANICSF",
    "Etapa": 4
  },
  {
@@ -1404,7 +1404,7 @@
    "Segundos": 2542,
    "Numero2": 141,
    "Segundos2": 2217,
-   "EQUIPO": "BARDIANI CSF",
+   "EQUIPO": "BARDIANICSF",
    "Etapa": 6
  }
 ]
