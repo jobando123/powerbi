@@ -2842,5 +2842,248 @@
    "Nombre": "15 Valdengo-Bergamo",
    "X": 199,
    "Y": 248
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 0,
+   "Y": 470
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 6,
+   "Y": 364
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 10,
+   "Y": 188
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 18,
+   "Y": 216
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 23,
+   "Y": 220
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 31,
+   "Y": 259
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 37,
+   "Y": 334
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 47,
+   "Y": 365
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 55,
+   "Y": 453
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 60,
+   "Y": 511
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 67,
+   "Y": 690
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 74,
+   "Y": 1059
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 84,
+   "Y": 1854
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 98,
+   "Y": 710
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 106,
+   "Y": 940
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 115,
+   "Y": 1141
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 121,
+   "Y": 1202
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 140,
+   "Y": 2488
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 143,
+   "Y": 2758
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 157,
+   "Y": 1532
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 161,
+   "Y": 1262
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 168,
+   "Y": 907
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 175,
+   "Y": 917
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 183,
+   "Y": 1240
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 189,
+   "Y": 1372
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 202,
+   "Y": 2502
+ },
+ {
+   "Etapa": 16,
+   "Salida": "Rovetta",
+   "Llegada": "Bormio",
+   "Terreno": "Alta Montana",
+   "Nombre": "16 Rovetta-Bormio",
+   "X": 222,
+   "Y": 1202
  }
 ]
