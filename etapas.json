@@ -5,6 +5,15 @@
    "Llegada": "Olbia",
    "Terreno": "Plana",
    "Nombre": "1 Alghero-Olbia",
+   "X": 0,
+   "Y": 17
+ },
+ {
+   "Etapa": 1,
+   "Salida": "Alghero",
+   "Llegada": "Olbia",
+   "Terreno": "Plana",
+   "Nombre": "1 Alghero-Olbia",
    "X": 8,
    "Y": 33
  },
@@ -195,7 +204,7 @@
    "Terreno": "Plana",
    "Nombre": "1 Alghero-Olbia",
    "X": 206,
-   "Y": 0
+   "Y": 4
  },
  {
    "Etapa": 2,
@@ -204,7 +213,7 @@
    "Terreno": "Plana",
    "Nombre": "2 Olbia-Tortoli",
    "X": 0,
-   "Y": 0
+   "Y": 10
  },
  {
    "Etapa": 2,
@@ -393,7 +402,7 @@
    "Terreno": "Plana",
    "Nombre": "2 Olbia-Tortoli",
    "X": 221,
-   "Y": 0
+   "Y": 18
  },
  {
    "Etapa": 3,
@@ -3085,5 +3094,995 @@
    "Nombre": "16 Rovetta-Bormio",
    "X": 222,
    "Y": 1202
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 0,
+   "Y": 417
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 3,
+   "Y": 400
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 15,
+   "Y": 1173
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 22,
+   "Y": 935
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 31,
+   "Y": 690
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 40,
+   "Y": 1046
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 50,
+   "Y": 1253
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 60,
+   "Y": 1883
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 71,
+   "Y": 1255
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 80,
+   "Y": 915
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 87,
+   "Y": 764
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 93,
+   "Y": 684
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 101,
+   "Y": 594
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 106,
+   "Y": 688
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 111,
+   "Y": 553
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 127,
+   "Y": 221
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 131,
+   "Y": 210
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 139,
+   "Y": 674
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 148,
+   "Y": 665
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 158,
+   "Y": 852
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 166,
+   "Y": 883
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 174,
+   "Y": 808
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 179,
+   "Y": 1010
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 184,
+   "Y": 974
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 192,
+   "Y": 1011
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 202,
+   "Y": 1172
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 209,
+   "Y": 1304
+ },
+ {
+   "Etapa": 17,
+   "Salida": "Tirano",
+   "Llegada": "Canazei",
+   "Terreno": "Alta Montana",
+   "Nombre": "17 Tirano-Canazei",
+   "X": 219,
+   "Y": 1442
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 0,
+   "Y": 1204
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 4,
+   "Y": 1304
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 8,
+   "Y": 1372
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 14,
+   "Y": 1440
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 20,
+   "Y": 1805
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 26,
+   "Y": 2239
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 35,
+   "Y": 1602
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 42,
+   "Y": 1470
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 46,
+   "Y": 1502
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 56,
+   "Y": 2117
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 57,
+   "Y": 2200
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 69,
+   "Y": 1524
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 71,
+   "Y": 1420
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 76,
+   "Y": 1522
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 78,
+   "Y": 1622
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 85,
+   "Y": 2121
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 96,
+   "Y": 1538
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 103,
+   "Y": 1215
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 109,
+   "Y": 1437
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 115,
+   "Y": 1060
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 124,
+   "Y": 467
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 133,
+   "Y": 1103
+ },
+ {
+   "Etapa": 18,
+   "Salida": "Moena",
+   "Llegada": "Ortisei",
+   "Terreno": "Alta Montana",
+   "Nombre": "18 Moena-Ortisei",
+   "X": 137,
+   "Y": 1219
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 0,
+   "Y": 1185
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 6,
+   "Y": 1295
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 14,
+   "Y": 1636
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 24,
+   "Y": 1224
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 35,
+   "Y": 907
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 47,
+   "Y": 1242
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 51,
+   "Y": 1295
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 58,
+   "Y": 888
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 65,
+   "Y": 759
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 74,
+   "Y": 530
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 84,
+   "Y": 362
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 93,
+   "Y": 305
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 96,
+   "Y": 451
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 105,
+   "Y": 955
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 115,
+   "Y": 380
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 128,
+   "Y": 310
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 136,
+   "Y": 200
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 139,
+   "Y": 181
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 146,
+   "Y": 204
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 156,
+   "Y": 278
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 163,
+   "Y": 308
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 176,
+   "Y": 159
+ },
+ {
+   "Etapa": 19,
+   "Salida": "Sancandido",
+   "Llegada": "Piancavallo",
+   "Terreno": "Alta Montana",
+   "Nombre": "19 Sancandido-Piancavallo",
+   "X": 191,
+   "Y": 1290
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 0,
+   "Y": 37
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 10,
+   "Y": 26
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 19,
+   "Y": 56
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 30,
+   "Y": 62
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 37,
+   "Y": 242
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 42,
+   "Y": 203
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 47,
+   "Y": 133
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 54,
+   "Y": 204
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 59,
+   "Y": 391
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 68,
+   "Y": 252
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 76,
+   "Y": 272
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 91,
+   "Y": 269
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 96,
+   "Y": 330
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 98,
+   "Y": 333
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 119,
+   "Y": 1392
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 123,
+   "Y": 1620
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 135,
+   "Y": 1025
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 148,
+   "Y": 170
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 154,
+   "Y": 138
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 161,
+   "Y": 149
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 175,
+   "Y": 1086
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 185,
+   "Y": 1081
+ },
+ {
+   "Etapa": 20,
+   "Salida": "Pordenone",
+   "Llegada": "Asiago",
+   "Terreno": "Alta Montana",
+   "Nombre": "20 Pordenone-Asiago",
+   "X": 190,
+   "Y": 1002
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 0,
+   "Y": 185
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 6,
+   "Y": 182
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 9,
+   "Y": 177
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 13,
+   "Y": 155
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 16,
+   "Y": 142
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 17,
+   "Y": 141
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 19,
+   "Y": 135
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 20,
+   "Y": 136
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 24,
+   "Y": 131
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 25,
+   "Y": 128
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 27,
+   "Y": 120
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 28,
+   "Y": 119
+ },
+ {
+   "Etapa": 21,
+   "Salida": "Monza",
+   "Llegada": "Milano",
+   "Terreno": "Contrareloj",
+   "Nombre": "21 Monza-Milano",
+   "X": 29,
+   "Y": 120
  }
 ]
